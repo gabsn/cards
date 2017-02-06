@@ -1,6 +1,6 @@
 # Cards
 
-**TODO: Add description**
+First Elixir project.
 
 ## Installation
 
